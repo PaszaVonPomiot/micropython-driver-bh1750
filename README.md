@@ -2,7 +2,7 @@
 
 MicroPython driver for BH1750 sensor over I2C
 
-![bh1750](/docs/img/bh1750a.jpg)
+![bh1750](/docs/img/bh1750b.jpg)
 
 ## Hardware
 
