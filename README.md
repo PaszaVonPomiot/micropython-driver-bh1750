@@ -2,7 +2,7 @@
 
 MicroPython driver for BH1750 sensor over I2C
 
-![bh1750](/docs/img/bh1750b.jpg)
+![bh1750](/docs/img/bh1750a.jpg)
 
 ## Hardware
 
@@ -50,6 +50,6 @@ luminance = sensor.luminance(BH1750Mode.ONCE_HIRES_2)
 print(f"{luminance:.2f}")
 ```
 
-## Acknowledgements
+## Credits
 
 [PinkInk](https://github.com/PinkInk) @ [https://github.com/PinkInk/upylib/tree/master/bh1750](https://github.com/PinkInk/upylib/tree/master/bh1750) - for initial code I forked and updated
