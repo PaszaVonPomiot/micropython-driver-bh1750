@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "name": "micropython-driver-bh1750",
+            "path": "."
+        },
+        {
+            "name": "Pico",
+            "uri": "pico:/"
+        }
+    ],
+    "settings": {}
+}
